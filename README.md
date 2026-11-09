@@ -6,7 +6,7 @@ AraShorten allows users to create short links, customize their short codes, mana
 
 ---
 
-# القسم الأول: العربية 🇸🇦
+# القسم الأول: العربية
 
 ## نبذة عن المشروع
 
@@ -263,7 +263,7 @@ cron/cleanup.php
 السكريبت مجاني مفتوح المصدر يمكنك التعديل عليه وتطويره وحمايته 
 ---
 
-# Part Two: English 🇬🇧
+# Part Two: English
 
 ## About AraShorten
 
